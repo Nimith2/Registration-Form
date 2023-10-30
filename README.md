@@ -17,4 +17,8 @@ Simply fill out the form fields with your information and click the "Submit" but
 ![Registration form](https://github.com/Nimith2/Registration-Form/assets/129142712/99c78368-cf07-4ebf-850b-97ae5488bbd2)
 
 ## Glimpse
-[Registration form.zip](https://github.com/Nimith2/Registration-Form/files/13169251/Registration.form.zip)
+
+
+https://github.com/Nimith2/Registration-Form/assets/129142712/a19a39c4-82ea-4772-b749-5f145b0aa193
+
+
